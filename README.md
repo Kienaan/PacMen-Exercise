@@ -2,6 +2,9 @@
 ### Description: 
 PacMen on demand (button click) and move these pacmen across the page. This is a game where I created a "add pacman" and "start game" buttons on the DOM and when you click "add pacman" the game should add a new pacman and you then click on "start game" the new pacman should travel throughout the screen and when it hits a wall it bounces back to the opposite wall. 
 
+### How to run:
+best way is to fork this reposatory to your github and then pull it from your local disk. then send it to the browser from your local machine.
+
 ### Roadmap:
 Now my PacMen are facing only to the right, I am working to make my pacman use the opposite direction when it hits the wall so it look like it changed direction.
 ### License information:
